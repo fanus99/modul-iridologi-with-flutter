@@ -69,7 +69,9 @@ class _DetectionPageState extends State<DetectionPage>{
     // TODO: implement build
     return Scaffold(
       appBar: AppBar(
+        leading: Icon(Icons.search),
         title: Text("Deteksi"),
+        centerTitle: true,
       ),
       body: Container(
         child: Center(

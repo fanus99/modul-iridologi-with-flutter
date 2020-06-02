@@ -15,5 +15,4 @@ class ModulPage extends StatelessWidget{
       ),
     );
   }
-
 }
